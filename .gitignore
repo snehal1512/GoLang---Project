@@ -1,5 +1,6 @@
 cmd/students-api/main.go
 .env
 storage
+/config
 go.work
 go.work.sum
